@@ -1,0 +1,51 @@
+/* Styles pour la vue manuelle */
+
+/* Style pour la ligne sélectionnée */
+.steps-table tr.selected-row {
+    background-color: var(--selected-ligne) !important;
+    color: white;
+}
+
+/* Style pour améliorer la visibilité des boutons d'action */
+.action-btn {
+    cursor: pointer;
+    margin: 0 5px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.action-btn:hover {
+    background-color: var(--dropdown-hover);
+}
+
+/* Style pour le bouton de suppression */
+#delete-action-btn {
+    color: #d9534f;
+}
+
+#delete-action-btn:hover {
+    background-color: #f9d6d5;
+}
+
+/* Style pour les boutons configurés */
+.configured-button {
+    box-shadow: 0 0 5px rgba(0, 128, 0, 0.5);
+    position: relative;
+}
+
+.configured-button::after {
+    content: '✓';
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
