@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>export-button</name>
+   <tag></tag>
+   <elementGuidId>3132ab22-b2e9-41ae-9558-4d1ba29f48f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@aria-label='${FieldsetName}']//span[@class='x-btn-button x-btn-button-default-toolbar-small  x-btn-no-text   x-btn-button-center ']
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

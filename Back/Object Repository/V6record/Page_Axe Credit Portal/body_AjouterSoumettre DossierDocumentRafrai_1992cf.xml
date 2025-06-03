@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_AjouterSoumettre DossierDocumentRafrai_1992cf</name>
+   <tag></tag>
+   <elementGuidId>8fa58e65-9993-4e4a-8dce-310c4cdc1271</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ext-gen4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ext-gen4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>c0e37916-ddb1-4958-8353-fd6b272f6d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> ext-webkit ext-chrome x-border-layout-ct</value>
+      <webElementGuid>2bec1b65-47de-42a8-ac80-e845d9fe6a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ext-gen4</value>
+      <webElementGuid>f9bd0d9d-85db-484d-8195-3728e9ec11ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Ajouter      Soumettre Dossier      Document      Rafraichir   IDUtilisateurMontantDeviseTaux (%)Type d'amortissementDurée (en mois)StatutRésultat système6152administrator6,000,000XOF7.000Annuité Constante24Proposition 1Système Favorable                       Pagesur 1                     Page courante 1 - 1 sur 1    Décision Système      Effacer      Annuler    Tableau des Frais   Ajouter   IDType de fraisMontant de référenceMontantDeviseTaux (%)FréquenceDate de débutDate de finPalierExclure du TAExclure du TEGTOBAssuranceT IDType de tauxBase de fraisFrais AmplitudeFrais MinimumFrais maximumStatut lissagerelated fees tier480Frais assurance vieRestant Dû XOF1.100Mensuelle        AnnuelTauxCommission 2                                501Frais DossierMontant de Crédit XOF2.200Début     TOB  PériodiqueTauxFrais Dossier20,000300,000                                              Pagesur 1                     Page courante 1 - 2 sur 2 Tableau FraisType de fraisMontant de référenceMontantDeviseTaux (%)FréquenceExclure du TAExclure du TEGTaxeDate de finDate de débutRankMontant minimumDeviseMontant maximumDeviseTOBType de tauxBase de fraisStatut du lissage                 Pagesur 1                     No Result Caractéristiques de la simulationCatégorie de produit Mnt crédits à racheter        Type d'apport Montant demandé Date de Déblocage Date de fin Taux (%)        Simulation sélectionnée  Intérêts intercalaires  Méthode de franchise Type de Taux Type d'amortissement Statut        TAEG OCRE TEG OCRE Fin du mois  Utilisateur Produit Type Demande Apport Personnel Durée (en mois) Date du premier paiement Echéance TTC Fréq. Remboursement Résultat système Base d'actualisation Durée de franchise  Fréquence des intérêts Taxe Mensualité TTC CBS TAEG CBS TEG CBS Mensualité CBS Hors Assurance Retour SMG    Tableau d'amortissement    Conditions suplémentaires Etat du lissage  Conditions non vérifiéesIDRègleMessage d'erreur                 Pagesur 1                     No Result Erreur Intégration AmplitudeMessage Technique 
+    
+    
+    
+
+
+
+
+
+
+	
+
+    
+            
+            
+        
+    
+
+            
+
+            
+
+        
+    
+
+
+
+      id(&quot;ext-gen24&quot;)      Date de Déblocage is requiredDate du premier paiement is required  </value>
+      <webElementGuid>bd39a4ac-3569-4214-a207-1afa96c96a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen4&quot;)</value>
+      <webElementGuid>47f47f1a-daa6-40ca-b248-27be8a098f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/V6record/Page_Axe Credit Portal/iframe_ChargesRevenus__consumerloan_conditi_ab8cf1</value>
+      <webElementGuid>21134641-920e-4ce0-b41c-886bb92688f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//body[@id='ext-gen4']</value>
+      <webElementGuid>1337975e-c466-40c3-81a6-6d1a3feea00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='ext-gen3']/body</value>
+      <webElementGuid>decb76c0-fb45-4883-a217-cb717430b194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>56917199-adfa-4dd5-87fc-ca59495b9e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[@id = 'ext-gen4' and (text() = concat(&quot;   Ajouter      Soumettre Dossier      Document      Rafraichir   IDUtilisateurMontantDeviseTaux (%)Type d&quot; , &quot;'&quot; , &quot;amortissementDurée (en mois)StatutRésultat système6152administrator6,000,000XOF7.000Annuité Constante24Proposition 1Système Favorable                       Pagesur 1                     Page courante 1 - 1 sur 1    Décision Système      Effacer      Annuler    Tableau des Frais   Ajouter   IDType de fraisMontant de référenceMontantDeviseTaux (%)FréquenceDate de débutDate de finPalierExclure du TAExclure du TEGTOBAssuranceT IDType de tauxBase de fraisFrais AmplitudeFrais MinimumFrais maximumStatut lissagerelated fees tier480Frais assurance vieRestant Dû XOF1.100Mensuelle        AnnuelTauxCommission 2                                501Frais DossierMontant de Crédit XOF2.200Début     TOB  PériodiqueTauxFrais Dossier20,000300,000                                              Pagesur 1                     Page courante 1 - 2 sur 2 Tableau FraisType de fraisMontant de référenceMontantDeviseTaux (%)FréquenceExclure du TAExclure du TEGTaxeDate de finDate de débutRankMontant minimumDeviseMontant maximumDeviseTOBType de tauxBase de fraisStatut du lissage                 Pagesur 1                     No Result Caractéristiques de la simulationCatégorie de produit Mnt crédits à racheter        Type d&quot; , &quot;'&quot; , &quot;apport Montant demandé Date de Déblocage Date de fin Taux (%)        Simulation sélectionnée  Intérêts intercalaires  Méthode de franchise Type de Taux Type d&quot; , &quot;'&quot; , &quot;amortissement Statut        TAEG OCRE TEG OCRE Fin du mois  Utilisateur Produit Type Demande Apport Personnel Durée (en mois) Date du premier paiement Echéance TTC Fréq. Remboursement Résultat système Base d&quot; , &quot;'&quot; , &quot;actualisation Durée de franchise  Fréquence des intérêts Taxe Mensualité TTC CBS TAEG CBS TEG CBS Mensualité CBS Hors Assurance Retour SMG    Tableau d&quot; , &quot;'&quot; , &quot;amortissement    Conditions suplémentaires Etat du lissage  Conditions non vérifiéesIDRègleMessage d&quot; , &quot;'&quot; , &quot;erreur                 Pagesur 1                     No Result Erreur Intégration AmplitudeMessage Technique 
+    
+    
+    
+
+
+
+
+
+
+	
+
+    
+            
+            
+        
+    
+
+            
+
+            
+
+        
+    
+
+
+
+      id(&quot;ext-gen24&quot;)      Date de Déblocage is requiredDate du premier paiement is required  &quot;) or . = concat(&quot;   Ajouter      Soumettre Dossier      Document      Rafraichir   IDUtilisateurMontantDeviseTaux (%)Type d&quot; , &quot;'&quot; , &quot;amortissementDurée (en mois)StatutRésultat système6152administrator6,000,000XOF7.000Annuité Constante24Proposition 1Système Favorable                       Pagesur 1                     Page courante 1 - 1 sur 1    Décision Système      Effacer      Annuler    Tableau des Frais   Ajouter   IDType de fraisMontant de référenceMontantDeviseTaux (%)FréquenceDate de débutDate de finPalierExclure du TAExclure du TEGTOBAssuranceT IDType de tauxBase de fraisFrais AmplitudeFrais MinimumFrais maximumStatut lissagerelated fees tier480Frais assurance vieRestant Dû XOF1.100Mensuelle        AnnuelTauxCommission 2                                501Frais DossierMontant de Crédit XOF2.200Début     TOB  PériodiqueTauxFrais Dossier20,000300,000                                              Pagesur 1                     Page courante 1 - 2 sur 2 Tableau FraisType de fraisMontant de référenceMontantDeviseTaux (%)FréquenceExclure du TAExclure du TEGTaxeDate de finDate de débutRankMontant minimumDeviseMontant maximumDeviseTOBType de tauxBase de fraisStatut du lissage                 Pagesur 1                     No Result Caractéristiques de la simulationCatégorie de produit Mnt crédits à racheter        Type d&quot; , &quot;'&quot; , &quot;apport Montant demandé Date de Déblocage Date de fin Taux (%)        Simulation sélectionnée  Intérêts intercalaires  Méthode de franchise Type de Taux Type d&quot; , &quot;'&quot; , &quot;amortissement Statut        TAEG OCRE TEG OCRE Fin du mois  Utilisateur Produit Type Demande Apport Personnel Durée (en mois) Date du premier paiement Echéance TTC Fréq. Remboursement Résultat système Base d&quot; , &quot;'&quot; , &quot;actualisation Durée de franchise  Fréquence des intérêts Taxe Mensualité TTC CBS TAEG CBS TEG CBS Mensualité CBS Hors Assurance Retour SMG    Tableau d&quot; , &quot;'&quot; , &quot;amortissement    Conditions suplémentaires Etat du lissage  Conditions non vérifiéesIDRègleMessage d&quot; , &quot;'&quot; , &quot;erreur                 Pagesur 1                     No Result Erreur Intégration AmplitudeMessage Technique 
+    
+    
+    
+
+
+
+
+
+
+	
+
+    
+            
+            
+        
+    
+
+            
+
+            
+
+        
+    
+
+
+
+      id(&quot;ext-gen24&quot;)      Date de Déblocage is requiredDate du premier paiement is required  &quot;))]</value>
+      <webElementGuid>b966d123-65fe-424d-8dbc-14c85c4fcae3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

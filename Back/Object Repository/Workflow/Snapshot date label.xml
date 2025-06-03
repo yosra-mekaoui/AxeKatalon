@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Snapshot date label</name>
+   <tag></tag>
+   <elementGuidId>aeede42d-adb6-4252-868a-bbe2d54e3c2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='${Task}']//ancestor::div[contains(@id,'dynamicGridHistory')]//child::div[text()=' ${formattedDateTime}']//span[text()='snapshot date label : ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

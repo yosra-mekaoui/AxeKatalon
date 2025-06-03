@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <name>input_Axe Credit Portal _userName</name>
+   <tag></tag>
+   <elementGuidId>58e83a0f-d807-4c4c-ab26-76b6d9194005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name="loginfmt" or @name="userName"]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'textfield-1013-inputEl' and @type = 'text' and @name = 'userName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#textfield-1013-inputEl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>38db488c-c740-48c6-82da-a9e27c423f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>textfield-1013-inputEl</value>
+      <webElementGuid>6acb0478-98c0-4e24-a3b0-2483ee2bc310</webElementGuid>
+   </webElementProperties>
+
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e0b7b18b-d7db-49e2-b302-74979a924454</webElementGuid>
+   </webElementProperties>
+
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>userName</value>
+      <webElementGuid>4e646833-34f7-4659-92d8-6bf4005ecfe2</webElementGuid>
+   </webElementProperties>
+
+
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='textfield-1013-inputEl']</value>
+      <webElementGuid>7a128981-403f-44e6-83a4-009b575713a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

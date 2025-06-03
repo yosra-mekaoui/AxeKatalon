@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite><testCase><name>Automated Framework/Button/Smoke/TC-21150 The calculation button works properly without filling the mandatory fields</name><isRun>true</isRun><numberOfRerun>0</numberOfRerun></testCase><testCase><name>Automated Framework/Button/Smoke/TC-21157 The calculation button works properly when the Ignore mandatory fields is desactivated</name><isRun>true</isRun><numberOfRerun>0</numberOfRerun></testCase></testsuite>

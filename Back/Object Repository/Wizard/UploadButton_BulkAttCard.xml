@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadButton_BulkAttCard</name>
+   <tag></tag>
+   <elementGuidId>f536eb4e-a8e7-4d6c-9dc1-7f2f6bb43e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='x-btn acp-bulk-upload-btn x-unselectable x-btn-default-small']//input[@class=' x-form-file-input']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recommend</name>
+   <tag></tag>
+   <elementGuidId>ab7462ce-712f-46e7-95c5-17dd720aeef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-field axe-basic-field axe-basic-required-field x-form-item x-form-item-default x-form-type-text x-column x-field-default x-column-form-item' and (text() = 'Recommend*:' or . = 'Recommend*:')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

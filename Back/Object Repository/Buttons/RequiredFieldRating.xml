@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RequiredFieldRating</name>
+   <tag></tag>
+   <elementGuidId>1e57405b-2ed3-4636-9f88-87ab8d189cff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b[@class=&quot;field-name&quot; and text()='Rating*']//ancestor::li[contains(@onclick,&quot;focusOnField&quot;)]//child::a[text()='(Required field)']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

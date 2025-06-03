@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Team Tasks</name>
+   <tag></tag>
+   <elementGuidId>c6bc2f21-856e-4790-813d-56697934ce94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Task inbox'])[1]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#_teamTasksBtn-btnInnerEl</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Team Tasks' or . = 'Team Tasks')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>35d929fb-ffd3-4261-8db6-2f1edc47ad44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_teamTasksBtn-btnInnerEl</value>
+      <webElementGuid>89a550cd-632f-4b1c-8f7b-966d8dce1924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>btnInnerEl</value>
+      <webElementGuid>b5dfde40-9344-43a1-8f07-534d62019736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>79475170-6bf9-4996-82a7-cbc0dec26adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-btn-inner x-btn-inner-default-toolbar-small</value>
+      <webElementGuid>5305cf51-6085-42cf-baca-1e5c6d9c98e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team Tasks</value>
+      <webElementGuid>f99a5b7a-4a0b-40c3-9832-82c5a9beb9eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_teamTasksBtn-btnInnerEl&quot;)</value>
+      <webElementGuid>32874de7-f5a3-43b4-af54-e9c7ce1a80ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='_teamTasksBtn-btnInnerEl']</value>
+      <webElementGuid>cfa7cf22-1bbd-4df8-937f-73999d9e9956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='_teamTasksBtn-btnEl']/span[2]</value>
+      <webElementGuid>aceb2c14-78c5-4954-afab-c53eba6c5bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task inbox'])[1]/following::span[4]</value>
+      <webElementGuid>7cfdf00b-b095-4b0c-ab7d-3ad2091a8aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Login: 09/25/2020 16:14'])[1]/following::span[20]</value>
+      <webElementGuid>d447ad13-519e-4376-944c-6c976384fbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign to'])[1]/preceding::span[2]</value>
+      <webElementGuid>a2d76eeb-8d9b-4fdb-ad11-acf7cd2d03ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell value has been edited'])[1]/preceding::span[6]</value>
+      <webElementGuid>cb2a6020-b4e5-4de8-96c2-9eb9093450bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*[(text() = 'Team Tasks' or . = 'Team Tasks')]</value>
+      <webElementGuid>09dc2b9c-ee7f-4cc5-923e-5eaa82bb72bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//*[(text() = 'Team Tasks' or . = 'Team Tasks')]</value>
+      <webElementGuid>f8ac8ddc-ad84-41d1-b24a-cdd55c5da480</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

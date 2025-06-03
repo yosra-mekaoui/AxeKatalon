@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Popon-isReadOnly</name>
+   <tag></tag>
+   <elementGuidId>a96dcdf9-7d14-4527-98f0-4100f5bc19da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'x-form-item-label-text' and (text() = 'Popon_label:' or text() = 'Popon_label')]//ancestor::div[contains(@class,'x-form-fieldcontainer')]//input[@aria-readonly ='true']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

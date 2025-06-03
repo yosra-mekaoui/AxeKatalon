@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Duplicate-Shareholders</name>
+   <tag></tag>
+   <elementGuidId>8475d6cd-01c2-4938-ac99-36d2727906dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;x-grid-cell-inner &quot; and text()=&quot;EUR&quot;]//following::div[@class=&quot;x-action-col-icon x-action-col-0  x-fa fa-files-o&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

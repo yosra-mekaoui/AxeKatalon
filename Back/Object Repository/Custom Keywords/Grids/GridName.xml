@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>GridName</name>
+   <tag></tag>
+   <elementGuidId>177c339b-3473-495b-8ece-6ab452eef585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@class,'x-fieldset-with-legend x-fieldset-default')]//div[contains(@class,'x-fieldset-header-text-collapsible') and  text()='${GridName}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>V9MenuNode</name>
+   <tag></tag>
+   <elementGuidId>5f1cb500-6b7c-4eda-9272-62969eb26efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;x-window-body x-window-body-default x-closable x-window-body-closable x-window-body-default-closable x-docked-noborder-top x-docked-noborder-right x-docked-noborder-left x-resizable x-window-body-resizable x-window-body-default-resizable&quot;]//child::span[text()='${MenuNode}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Debentures_x-action-col-icon x-action-col-0  x-fa fa-trash</name>
+   <tag></tag>
+   <elementGuidId>54c8d5a7-115b-4c6d-a606-419204d47b95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gridview-1378-record-1199']/tbody/tr[2]/td[7]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.x-grid-cell.x-grid-td.x-grid-cell-actioncolumn-1386.x-action-col-cell.x-grid-cell-last.x-unselectable > div.x-grid-cell-inner.x-grid-cell-inner-action-col > div.x-action-col-icon.x-action-col-0.x-fa.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01bd6219-1461-4e9e-a2c8-bb7513578a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>50341a88-9e08-484c-b21f-3aeea06094c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>884c7643-5124-4954-a6ee-351a4edd7f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-action-col-icon x-action-col-0  x-fa fa-trash</value>
+      <webElementGuid>40d6430a-61e0-49f9-b53d-6022f6a72d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qtip</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>8d8d853d-76ca-45d6-90b5-1166fc445c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridview-1378-record-1199&quot;)/tbody[1]/tr[@class=&quot;RowColleteral  x-grid-row&quot;]/td[@class=&quot;x-grid-cell x-grid-td x-grid-cell-actioncolumn-1386  x-action-col-cell x-grid-cell-last x-unselectable&quot;]/div[@class=&quot;x-grid-cell-inner x-grid-cell-inner-action-col&quot;]/div[@class=&quot;x-action-col-icon x-action-col-0  x-fa fa-trash&quot;]</value>
+      <webElementGuid>a9ce2d74-605b-401e-b908-8265be4efa94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gridview-1378-record-1199']/tbody/tr[2]/td[7]/div/div</value>
+      <webElementGuid>f8831640-0227-4fb8-ba9d-a107990c48c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[30]/tbody/tr[2]/td[7]/div/div</value>
+      <webElementGuid>3f8b642b-2453-4be0-b75b-c8ac3af0e36e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

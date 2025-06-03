@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Assign to</name>
+   <tag></tag>
+   <elementGuidId>9850805c-b207-4985-a654-bfb64bce7eaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='openAssignToWindowBtnFromTasksList-btnInnerEl'] | //span[@id=&quot;AssignToBtnV9-btnInnerEl&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Assign to' or . = 'Assign to')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#openAssignToWindowBtnFromTasksList-btnInnerEl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2a3bc2b-1903-490e-addb-2362b60a3bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>openAssignToWindowBtnFromTasksList-btnInnerEl</value>
+      <webElementGuid>c4e39c9b-36d3-49b4-a0ce-2346904607ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>btnInnerEl</value>
+      <webElementGuid>2be56371-185a-4980-ac74-a561aebe0ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>27757be4-57d1-434c-8e5a-1f26def2f93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-btn-inner x-btn-inner-default-toolbar-small</value>
+      <webElementGuid>4728870f-c9c7-4ac6-b563-0494076c4d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assign to</value>
+      <webElementGuid>bca9e281-5566-46a4-b7f6-a3afddf28ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;openAssignToWindowBtnFromTasksList-btnInnerEl&quot;)</value>
+      <webElementGuid>3ed1ec15-ba57-44ff-86f0-108cc62b6879</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='openAssignToWindowBtnFromTasksList-btnInnerEl']</value>
+      <webElementGuid>fdc43712-c932-46e5-92ff-5b30d387cda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='openAssignToWindowBtnFromTasksList-btnEl']/span[2]</value>
+      <webElementGuid>9a26042f-09a1-4a8d-a1ef-6357c8939dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team Tasks'])[1]/following::span[4]</value>
+      <webElementGuid>0401d006-f6f9-4206-9962-2765695af092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Task inbox'])[1]/following::span[8]</value>
+      <webElementGuid>72749fb7-3eee-420c-89ce-c8fecf9bab53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell value has been edited'])[1]/preceding::span[2]</value>
+      <webElementGuid>df7ba888-74f8-432d-a205-dd19c9d2f506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell value has been edited'])[2]/preceding::span[6]</value>
+      <webElementGuid>d753a50e-842f-4c97-9c5d-bd7caa6a9a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assign to']/parent::*</value>
+      <webElementGuid>ea43fcb5-a1db-4cbd-b266-d306396a9372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/a[2]/span/span/span[2]</value>
+      <webElementGuid>fda7a288-799d-4a35-b8fd-582d530bc833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

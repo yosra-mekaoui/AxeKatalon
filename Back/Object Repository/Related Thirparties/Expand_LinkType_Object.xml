@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expand_LinkType_Object</name>
+   <tag></tag>
+   <elementGuidId>65a52f1f-57a9-43a6-bbea-344a4787b7b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class = 'x-grid-group-title' and @data-qtip = 'Click to expand. CTRL key collapses all others' and (text() = 'Link Type: Parent industry')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

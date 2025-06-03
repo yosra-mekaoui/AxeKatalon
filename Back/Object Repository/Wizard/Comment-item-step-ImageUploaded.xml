@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Comment-item-step-ImageUploaded</name>
+   <tag></tag>
+   <elementGuidId>2eab3502-0edb-464d-b05c-c719f4960e82</elementGuidId>
+   <imagePath>C:\\Users\\katalon\\Desktop\\reports\\Picturetest.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\\Users\\katalon\\Desktop\\reports\\Picturetest.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

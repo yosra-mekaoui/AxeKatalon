@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Attachment Card Test Object</description>
+   <name>Attachment Card</name>
+   <elementGuidId>12345-6789</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#textfield-1013-inputEl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text()='${ElementID}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <webElementProperties>
+      <name>id</name>
+      <matchCondition>EQUALS</matchCondition>
+      <value>${ElementID}</value>
+      <isSelected>true</isSelected>
+   </webElementProperties>
+</WebElementEntity>

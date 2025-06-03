@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check</name>
+   <tag></tag>
+   <elementGuidId>df6b58f8-7f25-4c7a-a4d6-4644c2915919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='${value}']//ancestor::tr[@class=&quot;  x-grid-row&quot;]//child::spam[@class=&quot;x-grid-checkcolumn&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

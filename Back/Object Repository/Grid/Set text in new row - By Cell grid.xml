@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Set text in new row - By Cell grid</name>
+   <tag></tag>
+   <elementGuidId>111b7b0a-bbbd-46ee-bd59-08d0babaf92e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@class='x-grid-cell x-grid-td x-grid-cell-gridcolumn-1312 x-grid-dirty-cell x-grid-cell-first x-unselectable x-grid-cell-selected']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

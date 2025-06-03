@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bulk download btn</name>
+   <tag></tag>
+   <elementGuidId>8b6b24d6-0938-4caa-8f9f-9b1d09c128f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class=&quot;x-btn x-unselectable x-item-disabled x-box-item x-toolbar-item x-btn-default-toolbar-small x-btn-disabled&quot;]//child::span[@class=&quot;x-btn-wrap x-btn-wrap-default-toolbar-small x-btn-split x-btn-split-right&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

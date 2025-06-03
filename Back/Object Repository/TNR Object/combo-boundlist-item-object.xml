@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>combo-boundlist-item-object</name>
+   <tag></tag>
+   <elementGuidId>d7181f04-c1f1-4056-a09c-0d37797c2585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>.//div[contains(@class,'x-boundlist-list-ct')]//ul[contains(@id,'picker-listEl')]//li[text()= '${value} ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

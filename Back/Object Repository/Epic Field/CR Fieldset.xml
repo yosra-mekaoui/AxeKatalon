@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CR Fieldset</name>
+   <tag></tag>
+   <elementGuidId>259454f2-e1d4-40e7-a0ad-f87d5a556fb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@aria-label,'${fieldsetName}')]//div[contains(@class,'x-component x-fieldset-header-text x-fieldset-header-text-collapsible') and (text() = '${val}' or . = '${val}')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

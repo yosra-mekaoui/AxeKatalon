@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Default Popon</name>
+   <tag></tag>
+   <elementGuidId>e2267584-e030-4f6e-9358-b043ecaa49a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;x-window acp-window-new-design-c x-layer x-window-default x-border-box x-resizable x-window-resizable x-window-default-resizable&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

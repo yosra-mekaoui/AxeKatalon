@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DestObj - scroll</name>
+   <tag></tag>
+   <elementGuidId>57486d7f-0459-4ae6-b45a-756c035b5d55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, 'editableOnPoponGrid')]//div[@class='x-panel-body x-grid-with-col-lines x-grid-with-row-lines x-grid-body x-panel-body-default x-panel-body-default x-docked-noborder-right x-docked-noborder-left']//div[text()='123456712345671234567']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

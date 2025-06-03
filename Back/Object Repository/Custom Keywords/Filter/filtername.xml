@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filtername</name>
+   <tag></tag>
+   <elementGuidId>2ac34e8f-dd1d-43b4-ba44-a4529824fd38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-boundlist axe-combo-list x-boundlist-floating x-layer x-boundlist-default x-border-box')]//div[text()='${filtername}']//span[contains(@class,'delete-favorite-icon x-fa fa-trash')]
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Expand Other Field Properties</name>
+   <tag></tag>
+   <elementGuidId>00d27293-f879-4aa2-bfd4-b17f10e411ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[text()='Other Field Properties']/ancestor::div//span[contains(@class,'btnOutlineNone expandCollapseBlueGreen')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

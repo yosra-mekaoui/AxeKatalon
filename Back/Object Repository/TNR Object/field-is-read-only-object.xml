@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field-is-read-only-object</name>
+   <tag></tag>
+   <elementGuidId>5b252fe7-64dc-4a22-ad35-22a2989a0f94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text() = '${value}:' or . = '${value}:'  or   text() = '${value}' or . = '${value}']//input[@aria-readonly ='${isReadOnly}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

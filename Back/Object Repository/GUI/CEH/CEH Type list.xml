@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CEH Type list</name>
+   <tag></tag>
+   <elementGuidId>3dbb4fac-4f8b-4e5e-bd19-3e511ff4c9e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class=&quot;box-body&quot;]//md-select[@ng-model=&quot;itemeh.selectedType&quot;]//md-select-value[@class=&quot;md-select-value&quot;])[${id}]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

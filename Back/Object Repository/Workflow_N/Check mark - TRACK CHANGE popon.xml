@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check mark - TRACK CHANGE popon</name>
+   <tag></tag>
+   <elementGuidId>ad7e7637-3d32-4fa7-88ed-1f6df764efab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Step1 WF_N Track_Change']//parent::legend//parent::fieldset//div[contains(text(),'${currentDate}')]//ancestor::fieldset[@class=&quot;x-fieldset grid-track-changes-fieldset x-fieldset-with-title x-fieldset-with-legend x-fieldset-default&quot;]//child::td[contains(@class,'track-changes-modified-rows-first-column x-grid-cell-first x-unselectable')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

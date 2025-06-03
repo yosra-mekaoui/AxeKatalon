@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Value</name>
+   <tag></tag>
+   <elementGuidId>46e4dacf-a063-44a7-87f8-fc06275c141b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Field of Condition:' or text()='Field of Condition']//ancestor::fieldset[@class=&quot;x-fieldset fieldset x-fieldset-default&quot;]//child::input[@name=&quot;operationCondition-inputEl&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

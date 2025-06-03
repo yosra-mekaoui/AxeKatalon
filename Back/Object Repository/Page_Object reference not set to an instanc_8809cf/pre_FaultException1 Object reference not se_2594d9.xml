@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pre_FaultException1 Object reference not se_2594d9</name>
+   <tag></tag>
+   <elementGuidId>df83e578-d1df-4d91-a6c7-3cc76b033529</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>pre</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Stack Trace:'])[1]/following::pre[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>pre</value>
+      <webElementGuid>2076df34-a9e5-4c3b-be75-9e585b1892bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+[FaultException`1: Object reference not set to an instance of an object.]
+   System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg) +14508071
+   System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type) +403
+   ACPServicesManager.ACPServices.ICommonServices.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) +0
+   ACPServicesManager.ACPServices.CommonServicesClient.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Service References\ACPServices\Reference.cs:9034
+   ACPServicesManager.ServicesManager.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\ServicesManager.cs:2155
+   ACPServicesManager.Helper.GlobalVariable..ctor(String entity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\GlobalVariable.cs:50
+   ACPServicesManager.Helper.ACPGlobalVariable.AddEntityVariable(String Entity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\ACPGlobalVariable.cs:35
+   ACPServicesManager.Helper.ACPGlobalVariable.AddAllEntitiesGlobalVAriable(List`1 entities) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\ACPGlobalVariable.cs:72
+   Presentation.MvcApplication.InitializeDefaultValues() in C:\agent_ACP\_work\1\s\WebSite\Presentation\Global.asax.cs:96
+   Presentation.MvcApplication.Application_Start() in C:\agent_ACP\_work\1\s\WebSite\Presentation\Global.asax.cs:66
+
+[HttpException (0x80004005): Object reference not set to an instance of an object.]
+   System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app) +546
+   System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers) +171
+   System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context) +173
+   System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context) +255
+   System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext) +347
+
+[HttpException (0x80004005): Object reference not set to an instance of an object.]
+   System.Web.HttpRuntime.FirstRequestInit(HttpContext context) +552
+   System.Web.HttpRuntime.EnsureFirstRequestInit(HttpContext context) +122
+   System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context) +737
+</value>
+      <webElementGuid>93a4fb1d-243c-449e-98ae-e5302cf25bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/font[1]/table[2]/tbody[1]/tr[1]/td[1]/code[1]/pre[1]</value>
+      <webElementGuid>b5945d0a-4900-434c-807a-edd72bb6e4ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stack Trace:'])[1]/following::pre[1]</value>
+      <webElementGuid>be03c606-3e4d-441f-b396-073848e31b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Error:'])[1]/following::pre[1]</value>
+      <webElementGuid>4bc0bacf-c6e7-4ae8-a073-59e6494f07dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version Information:'])[1]/preceding::pre[1]</value>
+      <webElementGuid>c065f6ba-aa8d-4872-b401-197198ae2b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]/body[1]/font[1]/table[2]/tbody[1]/tr[1]/td[1]/code[1]/pre[1]'])[1]/preceding::pre[1]</value>
+      <webElementGuid>507b51c4-05e6-4630-9a0e-24531110fcce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//pre</value>
+      <webElementGuid>1d7fe83a-1a13-4a80-b9aa-e540353a6019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//pre[(text() = '
+[FaultException`1: Object reference not set to an instance of an object.]
+   System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg) +14508071
+   System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type) +403
+   ACPServicesManager.ACPServices.ICommonServices.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) +0
+   ACPServicesManager.ACPServices.CommonServicesClient.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Service References\ACPServices\Reference.cs:9034
+   ACPServicesManager.ServicesManager.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\ServicesManager.cs:2155
+   ACPServicesManager.Helper.GlobalVariable..ctor(String entity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\GlobalVariable.cs:50
+   ACPServicesManager.Helper.ACPGlobalVariable.AddEntityVariable(String Entity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\ACPGlobalVariable.cs:35
+   ACPServicesManager.Helper.ACPGlobalVariable.AddAllEntitiesGlobalVAriable(List`1 entities) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\ACPGlobalVariable.cs:72
+   Presentation.MvcApplication.InitializeDefaultValues() in C:\agent_ACP\_work\1\s\WebSite\Presentation\Global.asax.cs:96
+   Presentation.MvcApplication.Application_Start() in C:\agent_ACP\_work\1\s\WebSite\Presentation\Global.asax.cs:66
+
+[HttpException (0x80004005): Object reference not set to an instance of an object.]
+   System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app) +546
+   System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers) +171
+   System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context) +173
+   System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context) +255
+   System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext) +347
+
+[HttpException (0x80004005): Object reference not set to an instance of an object.]
+   System.Web.HttpRuntime.FirstRequestInit(HttpContext context) +552
+   System.Web.HttpRuntime.EnsureFirstRequestInit(HttpContext context) +122
+   System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context) +737
+' or . = '
+[FaultException`1: Object reference not set to an instance of an object.]
+   System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg) +14508071
+   System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type) +403
+   ACPServicesManager.ACPServices.ICommonServices.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) +0
+   ACPServicesManager.ACPServices.CommonServicesClient.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Service References\ACPServices\Reference.cs:9034
+   ACPServicesManager.ServicesManager.GenerateSharedDataset(String query, DataTable languageMapping, String userEntity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\ServicesManager.cs:2155
+   ACPServicesManager.Helper.GlobalVariable..ctor(String entity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\GlobalVariable.cs:50
+   ACPServicesManager.Helper.ACPGlobalVariable.AddEntityVariable(String Entity) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\ACPGlobalVariable.cs:35
+   ACPServicesManager.Helper.ACPGlobalVariable.AddAllEntitiesGlobalVAriable(List`1 entities) in C:\agent_ACP\_work\1\s\WebSite\ACPServicesManager\Helper\ACPGlobalVariable.cs:72
+   Presentation.MvcApplication.InitializeDefaultValues() in C:\agent_ACP\_work\1\s\WebSite\Presentation\Global.asax.cs:96
+   Presentation.MvcApplication.Application_Start() in C:\agent_ACP\_work\1\s\WebSite\Presentation\Global.asax.cs:66
+
+[HttpException (0x80004005): Object reference not set to an instance of an object.]
+   System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app) +546
+   System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers) +171
+   System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context) +173
+   System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context) +255
+   System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext) +347
+
+[HttpException (0x80004005): Object reference not set to an instance of an object.]
+   System.Web.HttpRuntime.FirstRequestInit(HttpContext context) +552
+   System.Web.HttpRuntime.EnsureFirstRequestInit(HttpContext context) +122
+   System.Web.HttpRuntime.ProcessRequestNotificationPrivate(IIS7WorkerRequest wr, HttpContext context) +737
+')]</value>
+      <webElementGuid>3d27a6a4-85e5-4072-acd8-0dc656ef7234</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

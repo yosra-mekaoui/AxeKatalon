@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputFieldTitle</name>
+   <tag></tag>
+   <elementGuidId>45c95dd8-2954-4ab7-9df5-ff1b8ae0fd5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'axe-basic-field')]//span[contains(@class,'x-form-item-label-text') and (  text() = '${FieldName}:' or text() = '${FieldName}*:'   or text() = '${FieldName}'   or text() = '${FieldName}*'   )]/ancestor::div[contains(@class,'axe-basic-field')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

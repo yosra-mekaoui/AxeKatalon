@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spam_Not Linked Transaction Mitigant_x-grid-checkcolumn</name>
+   <tag></tag>
+   <elementGuidId>d5776e9a-a4f0-422c-800a-6bba90a958e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-grid-cell-inner ' and (text() = 'Guaranto' or . = 'Guarantor')]//ancestor::table[contains(@class,'x-grid-item')]//spam[@class = 'x-grid-checkcolumn']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

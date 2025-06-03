@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Collateral</name>
+   <tag></tag>
+   <elementGuidId>9401e1f9-096d-4800-b568-678ae7a3e650</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'x-btn-inner x-btn-inner-default-large' and (text() = 'Create Collateral' or . = 'Create Collateral')]  | //span[ @class=&quot;x-btn-inner x-btn-inner-default-medium&quot; and text() = 'Create Collateral' ]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

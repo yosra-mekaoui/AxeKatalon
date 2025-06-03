@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RelatedThirdParties</name>
+   <tag></tag>
+   <elementGuidId>dbe7f420-05da-4723-a4d1-dbe5998376a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//Div[@class=&quot;x-grid-cell-inner &quot; and text()=&quot;Mohammed Jawad KHALEEL&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

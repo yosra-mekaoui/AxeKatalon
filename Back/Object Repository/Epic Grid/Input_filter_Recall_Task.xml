@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_filter_Recall_Task</name>
+   <tag></tag>
+   <elementGuidId>dd80764a-ee04-45ae-8193-22ed2f2375fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='recallTasksdWindow']//child::span[text()='${ColumnName}']//ancestor::div[contains(@class,'x-column-header')]//input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

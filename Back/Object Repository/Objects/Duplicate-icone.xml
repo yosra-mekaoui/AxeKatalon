@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Duplicate-icone</name>
+   <tag></tag>
+   <elementGuidId>f24cfd50-1b83-4d43-a543-c49d9e72ae05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;x-grid-cell-inner &quot; and text()=&quot;abcd&quot;]//following::div[@ data-qtip=&quot;Duplicate&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

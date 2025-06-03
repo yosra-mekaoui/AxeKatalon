@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Group By_Editable Onpopon</name>
+   <tag></tag>
+   <elementGuidId>3191a399-10d4-4701-8967-0a9db65e8e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-title-text x-title-text-default x-title-item' and (text() = 'Group By_Editable Onpopon' or . = 'Group By_Editable Onpopon')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

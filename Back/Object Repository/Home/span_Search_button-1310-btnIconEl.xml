@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search_button-1310-btnIconEl</name>
+   <tag></tag>
+   <elementGuidId>fcb5dd67-8e92-44af-ac9a-0d1811cd58d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@class,'x-btn favorite-searchCria-btn x-unselectable x-box-item x-toolbar-item x-btn-default-toolbar-small')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

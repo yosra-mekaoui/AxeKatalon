@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WebElementEntity>
+   <description />
+   <name>SignoutButton</name>
+   <tag />
+   <elementGuidId>49cb1db2-27d8-4104-b09b-012e1b13f464</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = '_acp_logout_id-itemEl']</value>
+      </entry>
+   <entry><key>XPATH</key><value>//*[@id = '_acp_logout_id-itemEl']</value></entry></selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_acp_logout_id-itemEl</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DisableBHtrue</name>
+   <tag></tag>
+   <elementGuidId>3a8116e9-fb8b-4cbc-986f-d136d859ac98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()= '${variable}:' or text()= '${variable}']//ancestor::div[contains(@class,'basic-field')]//child::input[@aria-readonly=&quot;true&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textrea</name>
+   <tag></tag>
+   <elementGuidId>7a806c3b-c1b9-4015-a808-d04896260023</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ancestor::*[@class = 'x-field axe-basic-field axe-note-field note-resize-css x-form-item x-form-item-default x-form-type-text x-fit-item x-field-default x-fit-form-item']//textarea[contains(@class,'x-form-field x-form-text x-form-text-default x-form-textarea')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

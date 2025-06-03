@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ComboboxbyPlaceholder</name>
+   <tag></tag>
+   <elementGuidId>1cdb874c-acb2-4d0a-8bf1-ce4e02a32c36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-select[@aria-label='${Placeholder}'] | //input[@placeholder='${Placeholder}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save_Attachment</name>
+   <tag></tag>
+   <elementGuidId>ff546bc5-cd40-461a-9b2b-ee0835394384</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,&quot;x-box-layout-ct x-docked-noborder-right x-docked-noborder-bottom x-docked-noborder-left&quot;)]//a[contains(@class,'x-btn') and @aria-disabled='false']//span[contains(@class,'x-btn-inner') and text() = 'Save']/ancestor::a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Basic Field</name>
+   <tag></tag>
+   <elementGuidId>63f3864b-6535-49fe-95fa-c581c7f5422f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()='Amount_ValidationControl:'  or text()='Amount_ValidationControl']//ancestor::div[contains(@class,'axe-basic-field')]//child::input)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

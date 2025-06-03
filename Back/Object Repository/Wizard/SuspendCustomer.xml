@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SuspendCustomer</name>
+   <tag></tag>
+   <elementGuidId>0598395c-df59-4574-8beb-e208e538ca83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//u[ contains(text(),&quot;+variable+&quot;)]//ancestor::div[contains(@class,&quot;x-grid-cell-inner &quot;)  ]
+
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filter xPath</name>
+   <tag></tag>
+   <elementGuidId>75c8a28d-7e10-4ac3-9768-8e7442fb103f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Screen Reference']//ancestor::div[@class='x-column-header x-column-header-align-start x-box-item x-column-header-default x-unselectable']//child::input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

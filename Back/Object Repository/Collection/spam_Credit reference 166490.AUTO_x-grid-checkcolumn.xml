@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spam_Credit reference 166490.AUTO_x-grid-checkcolumn</name>
+   <tag></tag>
+   <elementGuidId>ec1aa711-6a3e-49ca-92c8-71f63ea636b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-grid-cell-inner ' and (text() = '24/05/2018' )]//ancestor::table[contains(@class,'x-grid-item')]//spam[@class = 'x-grid-checkcolumn']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

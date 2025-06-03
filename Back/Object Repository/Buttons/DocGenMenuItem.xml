@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DocGenMenuItem</name>
+   <tag></tag>
+   <elementGuidId>2608ab6e-ccc2-4183-9d1c-5639bd97dd7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,&quot;paneldocgen&quot;)]//child::span[@class=&quot;x-tree-node-text &quot; and text()=&quot;${DocName}&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

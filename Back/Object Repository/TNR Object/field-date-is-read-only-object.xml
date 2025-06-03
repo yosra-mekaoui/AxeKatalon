@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field-date-is-read-only-object</name>
+   <tag></tag>
+   <elementGuidId>e8bd70ed-8850-4c50-907d-f702c0f373f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div//label[text() = '${value}:' or . = '${value}:' or  text() = '${value}' or . = '${value}' ]//ancestor::div[contains(@class,'x-field x-form-field-date')]//input[@aria-readonly ='${isReadOnly}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Row to be edited - track change</name>
+   <tag></tag>
+   <elementGuidId>018537c8-b010-4961-b686-9d62f4bb9391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='TRACK_CHANGE_EDITED']//parent::div//parent::div//parent::div//parent::div//following-sibling::div//div[text()='test edit track']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

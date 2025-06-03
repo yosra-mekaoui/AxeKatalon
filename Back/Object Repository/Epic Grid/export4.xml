@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>export4</name>
+   <tag></tag>
+   <elementGuidId>c0db6045-83f3-4ef5-a08c-0b807f5160a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[normalize-space(text()) and normalize-space(.)='Group By_Editable Onpopon']//ancestor::fieldset//child::span[contains(@class,'x-btn-split')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WebElementEntity>
+   <description />
+   <name>FilterField</name>
+   <tag />
+   <elementGuidId>e1dfe9eb-fcf5-4ab2-aa01-a1fdc70e6c2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'acpMainMenuWindowFilterFieldId-inputEl']</value>
+      </entry>
+   <entry><key>XPATH</key><value>//*[@id = 'acpMainMenuWindowFilterFieldId-inputEl']</value></entry></selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>acpMainMenuWindowFilterFieldId-inputEl</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CustomBHvalue</name>
+   <tag></tag>
+   <elementGuidId>0b19b5b8-e4fc-44ae-8910-eed8429f19bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[text()='Field of Condition:' or text()='Field of Condition']//ancestor::fieldset[@class=&quot;x-fieldset fieldset x-fieldset-default&quot;]//child::input[@class='x-form-field x-form-text x-form-text-default   '])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

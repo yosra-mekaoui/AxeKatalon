@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Chat_Attachment</name>
+   <tag></tag>
+   <elementGuidId>96af4256-78a9-4402-9e63-e5c9a8bfa054</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,&quot;x-btn chat-file-btn&quot;)]//input[contains(@id,&quot;AttachPanelInputId_&quot;) and @type=&quot;file&quot; ]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

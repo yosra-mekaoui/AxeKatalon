@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Boite de rception</name>
+   <tag></tag>
+   <elementGuidId>bddc2a50-0db6-4bc3-8509-0712cf9f51c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-title-text x-title-text-default x-title-item' and (text() = 'Boite de réception' or . = 'Boite de réception')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

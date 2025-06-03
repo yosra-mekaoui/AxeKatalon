@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Intranet Guide Axe Finance 2020.pdf The file size exceeds the limit allowed</name>
+   <tag></tag>
+   <elementGuidId>8673167c-ddc8-464b-ba18-595bbd03111a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(text() = 'Intranet Guide Axe Finance 2020.pdf The file size exceeds the limit allowed ' or . = 'Intranet Guide Axe Finance 2020.pdf The file size exceeds the limit allowed ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

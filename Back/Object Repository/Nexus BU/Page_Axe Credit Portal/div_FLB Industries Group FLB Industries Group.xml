@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FLB Industries Group FLB Industries Group</name>
+   <tag></tag>
+   <elementGuidId>79a41cc6-deed-47ec-af32-1464fe362ecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit: CA.208460'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c36ab13f-5443-47a2-bc5c-6be5591fcdb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>13e45cad-a3bd-4e26-b440-2f53df60b2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-grid-cell-inner </value>
+      <webElementGuid>e31161d3-cb66-422b-bf22-9b264cf68d64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FLB Industries Group FLB Industries Group</value>
+      <webElementGuid>a99e92b3-a650-4621-bea0-31c60ffaf822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridview-1342-record-2045&quot;)/tbody[1]/tr[@class=&quot;x-grid-row&quot;]/td[@class=&quot;x-grid-cell x-grid-td x-grid-cell-gridcolumn-1345 x-unselectable x-grid-item-focused&quot;]/div[@class=&quot;x-grid-cell-inner&quot;]</value>
+      <webElementGuid>7c768188-b76d-46b5-acdf-7f1cb8d09b4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gridview-1342-record-2045']/tbody/tr/td[2]/div</value>
+      <webElementGuid>44e4d898-f9c9-4097-95de-476b479cb4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit: CA.208460'])[1]/following::div[1]</value>
+      <webElementGuid>f84bec87-029f-4321-8d27-618f43aa948a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell value has been edited'])[47]/following::div[6]</value>
+      <webElementGuid>dad88d07-6d1e-4b9d-b985-89b01d9b1a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global Omnibus Facility'])[1]/preceding::div[1]</value>
+      <webElementGuid>11a84431-981e-4e1c-bd28-d28657572908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed'])[3]/preceding::div[2]</value>
+      <webElementGuid>179774f0-092b-4669-9d09-9f280d79e713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FLB Industries Group FLB Industries Group']/parent::*</value>
+      <webElementGuid>d00c4c7d-4a8d-4906-b34b-649147c68c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[2]/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>02adb7db-810e-4e4e-a2cc-d9e961d0ad15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

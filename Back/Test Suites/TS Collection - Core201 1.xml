@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteCollectionEntity>
+    <description>TS Collection - Core201</description>
+    <name>TS Collection - Core201</name>
+    <tag>TS Collection - Core201</tag>
+
+    <!-- Delay (in seconds) between starting each parallel instance -->
+    <delayBetweenInstances>0</delayBetweenInstances>
+
+    <!-- PARALLEL or SEQUENTIAL -->
+    <executionMode>PARALLEL</executionMode>
+
+    <!-- Maximum number of concurrent suites to run -->
+    <maxConcurrentInstances>4</maxConcurrentInstances>
+
+    <testSuiteRunConfigurations>
+        <!-- Configuration for first suite -->
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/CEH/CEH</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <!-- Configuration for second suite -->
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Custom Behavior/Custom Behavior</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Attachment/Attachment</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/WorkFlow/WorkFlow</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Wizard/Wizard</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Login and Gui/Login and Gui</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Treegrid/Treegrid</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Calculation field/Calculation field</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Button/Button</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Access right/Access right</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Grid/Grid</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/field/field</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/summary/summary</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/search screen/search screen</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Nexus Grid/Nexus</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Popon/Popon</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Composite Group/Composite Group</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Item Lock/Item lock</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/KYC/KYC</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Structure/structure</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Home Page/Home page</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Configuration Screen/Configuration Screen</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Financial Analysis/Financial Analysis</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Chat/Chat</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>Sanity</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Presales to Demo/Presales to Demo</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Product Backlog</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+        <TestSuiteRunConfiguration>
+            <configuration>
+                <groupName>Web Desktop</groupName>
+                <profileName>Gate demo auto Core</profileName>
+                <requireConfigurationData>false</requireConfigurationData>
+                <runConfigurationId>Chrome</runConfigurationId>
+            </configuration>
+            <runEnabled>true</runEnabled>
+            <!-- Points to the test suite file "SampleTestSuite2.xml" in the "Test Suites" folder -->
+            <testSuiteEntity>AutoFramework/Pricing/Pricing</testSuiteEntity>
+        </TestSuiteRunConfiguration>
+
+    </testSuiteRunConfigurations>
+</TestSuiteCollectionEntity>

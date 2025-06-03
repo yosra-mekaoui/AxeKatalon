@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonopenCA</name>
+   <tag></tag>
+   <elementGuidId>e3b2bef0-23c0-4fb9-acec-f6253bfa0ea5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-grid3-row x-grid3-row-first')]//em[@class=' x-unselectable']//button[@class=' x-btn-text icon-applicationformedit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

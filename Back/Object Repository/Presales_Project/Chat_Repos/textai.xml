@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textai</name>
+   <tag></tag>
+   <elementGuidId>43669c1d-c2a8-4bcc-8e90-2ffb58d75a87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@class=&quot;x-form-field x-form-required-field x-form-empty-field x-form-empty-field-default x-form-text x-form-text-default x-form-textarea &quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

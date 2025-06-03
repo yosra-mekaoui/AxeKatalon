@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field_list_tab_label</name>
+   <tag></tag>
+   <elementGuidId>b522416a-a13f-4722-a2e6-b334309f04a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;x-no-header-borders x-panel acp-generic-grid basic-grid x-border-item x-box-item x-panel-default x-grid&quot;]//child::div[text()='Fields list']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

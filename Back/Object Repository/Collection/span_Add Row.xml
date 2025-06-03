@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Row</name>
+   <tag></tag>
+   <elementGuidId>abfca8ed-ee65-4680-9051-2b4d9cbc6787</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@aria-label,'Recovery Actions field set')]//*[@class = 'x-btn-inner x-btn-inner-default-toolbar-small' and (text() = 'Add Row' or . = 'Add Row')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

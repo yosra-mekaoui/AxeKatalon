@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Close Popon - Track Change fields</name>
+   <tag></tag>
+   <elementGuidId>f77b6ee2-bbe4-4f20-9f24-1a8b6acca52d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='${FieldName}']//ancestor::div[contains(@class,'x-window-header')]//child::div[@class='x-tool-tool-el x-tool-img x-tool-close ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

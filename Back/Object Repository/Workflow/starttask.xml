@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>starttask</name>
+   <tag></tag>
+   <elementGuidId>696c018a-3ee4-4273-8787-b88f5ea243bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text() = '${Taskname}']/ancestor::tr[contains(@class,'  x-grid-row')]//div[@data-qtip=&quot;Execute Task&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

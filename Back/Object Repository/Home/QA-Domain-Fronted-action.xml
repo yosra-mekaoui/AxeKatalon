@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QA-Domain-Fronted-action</name>
+   <tag></tag>
+   <elementGuidId>9ea630a6-fd82-4640-85e7-c31ed53573de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[contains(@data-recordindex,'4')]//*[@role = 'button' and @class = 'x-action-col-icon x-action-col-0  x-fa fa-user assign-touser-arrow']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

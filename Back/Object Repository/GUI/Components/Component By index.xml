@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Component By index</name>
+   <tag></tag>
+   <elementGuidId>c4837c27-dfa2-4ee0-a388-40f1270d6c92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class=&quot;flex&quot; and text()='Grids']//following::md-accordion-button[${index}]//ancestor::a[@class=&quot;md-accordion-button md-button layout-column&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

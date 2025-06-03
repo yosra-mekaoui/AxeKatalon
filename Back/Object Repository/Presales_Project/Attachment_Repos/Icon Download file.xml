@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Icon Download file</name>
+   <tag></tag>
+   <elementGuidId>727388c7-a398-4bd1-9db2-ccffd377969e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[text() =  '${filename}']/ancestor::div[contains(@class,'acp-doc-attachment-card')]//div[@class=&quot;x-panel attachment-file x-panel-default&quot;]//child::i[contains(@class,&quot;icon icon-file-word DocxAttachment&quot;) or contains(@class,&quot;file&quot;)]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

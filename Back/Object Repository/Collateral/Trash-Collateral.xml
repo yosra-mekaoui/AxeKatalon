@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Trash-Collateral</name>
+   <tag></tag>
+   <elementGuidId>5adb4b1b-4929-43db-84e5-5f25871d5819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-grid-cell-inner ' and (text() = '${Value}'or . = '${Value}')]//ancestor::table[contains(@class,'x-grid-item')]//div[contains(@class,'x-action-col-icon x-action-col-0  x-fa fa-trash')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

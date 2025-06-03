@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify Old Value - Track Change fields</name>
+   <tag></tag>
+   <elementGuidId>aa33d470-6ee5-41dc-81c9-c9db4fefdfd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[text()='${TaskName}']//ancestor::div[contains(@id,'HistoryWindowcontainer')]//child::div[contains(text(),'${currentDate}')]//ancestor::div[contains(@id,'HistoryWindowcontainer')]//child::span[1][text()='${Old Value}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

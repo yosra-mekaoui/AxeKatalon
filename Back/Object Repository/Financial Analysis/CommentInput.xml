@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CommentInput</name>
+   <tag></tag>
+   <elementGuidId>bc5a8305-1db8-4ecc-824a-72ab4844a064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@data-ref = 'inputEl' and @rows = '1' and @class = 'x-form-field x-form-text x-form-text-default x-form-textarea ' and @aria-hidden = 'false' and @aria-disabled = 'false' and @aria-multiline = 'true' and @role = 'textbox' and @aria-invalid = 'false' and @aria-readonly = 'false' and @aria-required = 'false' and @autocomplete = 'off']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

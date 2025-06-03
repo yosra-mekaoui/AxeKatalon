@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>trash_by_fieldset</name>
+   <tag></tag>
+   <elementGuidId>3c9c6464-5812-4340-96cb-575f1a095119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@aria-label,'${fieldsetName}')]//*[@role = 'presentation' and contains(@class ,'x-panel attachment-delete x-panel-default')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

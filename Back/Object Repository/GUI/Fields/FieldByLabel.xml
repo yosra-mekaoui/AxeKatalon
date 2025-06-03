@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FieldByLabel</name>
+   <tag></tag>
+   <elementGuidId>077557bf-5fa8-44b8-9bc9-1dbf9b12aa8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[normalize-space(text()) = '${fieldName}']//ancestor::md-input-container//*[self::textarea or self::input]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cross-Verif-GridsBycell</name>
+   <tag></tag>
+   <elementGuidId>8dae7735-1d12-4d4d-b705-b1079c48a316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@aria-label='Grids_Editable_bycell_Icon field set']//i[@class='fa  fa-times']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BasicButton2</name>
+   <tag></tag>
+   <elementGuidId>af332e59-b6c6-4fb8-b4ce-906c6e7fe841</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//a[contains(@class,'x-btn')]//span[contains(@class,'x-btn-inner') and text() = '${ButtonName}']/ancestor::a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

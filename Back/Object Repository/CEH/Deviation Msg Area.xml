@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Deviation Msg Area</name>
+   <tag></tag>
+   <elementGuidId>e0a63579-7358-4307-ae18-2cd73ea9c00c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[contains(@class,'x-form-field x-form-text x-form-text-default x-form-textarea  x-form-empty-field x-form-empty-field')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

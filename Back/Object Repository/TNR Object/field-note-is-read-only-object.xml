@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field-note-is-read-only-object</name>
+   <tag></tag>
+   <elementGuidId>b9a9a57b-10d1-4bed-baf7-074fd17bc8e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text() = '${value}:' or . = '${value}:'  or  text() = '${value}' or . = '${value}' ]//textarea[@aria-readonly ='${isReadOnly}']
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OK</name>
+   <tag></tag>
+   <elementGuidId>d1421834-c2dc-4fcf-8261-a4cf75276021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='OK']//ancestor::a[@class=&quot;x-btn acp-basic-btn x-unselectable x-box-item x-toolbar-item x-btn-default-small x-item-disabled x-btn-disabled&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

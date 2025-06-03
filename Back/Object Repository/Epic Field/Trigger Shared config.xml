@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Trigger Shared config</name>
+   <tag></tag>
+   <elementGuidId>44db004d-c295-4588-9086-d26be343d2ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-form-arrow-trigger')]/ancestor::div[contains(@class,'axe-basic-field')]//span[text()='Grid Combobox Shared Config:']/../../..//div[contains(@id,'trigger-picker')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

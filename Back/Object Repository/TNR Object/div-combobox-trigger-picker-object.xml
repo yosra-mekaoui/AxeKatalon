@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div-combobox-trigger-picker-object</name>
+   <tag></tag>
+   <elementGuidId>68b6292b-02df-4387-b9a4-d2f50156594f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'x-form-item-label-text') and ( text() = '${value}:' or text() = '${value}*:' or  text() = '${value}' or text() = '${value}*')]/ancestor::div[contains(@class,'axe-basic-field')]//div[contains(@class,'x-form-trigger x-form-trigger-default x-form-arrow-trigger x-form-arrow-trigger-default ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

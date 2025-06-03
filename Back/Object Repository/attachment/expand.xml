@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>expand</name>
+   <tag></tag>
+   <elementGuidId>cc6d0e0d-c25d-43d5-8442-fc6575cf18f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-splitter x-border-item x-box-item x-splitter-default x-splitter-vertical x-unselectable x-splitter-collapsed collapsed')]//div[@data-ref = 'collapseEl' and @role = 'presentation' and @class = 'x-collapse-el x-layout-split-left']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

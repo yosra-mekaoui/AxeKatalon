@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>New row - edit TRACK CHANGE popon</name>
+   <tag></tag>
+   <elementGuidId>05e4eb55-7ac8-47b4-8f57-04d775cf6d6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='${StepName}']//parent::legend//parent::fieldset//div[contains(text(),'${currentDate}')]//ancestor::fieldset[@class=&quot;x-fieldset grid-track-changes-fieldset x-fieldset-with-title x-fieldset-with-legend x-fieldset-default&quot;]//child::td//div[text()='${RowValue}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

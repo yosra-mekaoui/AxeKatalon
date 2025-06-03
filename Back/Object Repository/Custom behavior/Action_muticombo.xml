@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action_muticombo</name>
+   <tag></tag>
+   <elementGuidId>cba99e95-9737-48bf-be8e-fe1f7215f85e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'x-form-item-label-text') and (text() = '${FieldName}:' or text() = '${FieldName}')]/ancestor::div[contains(@class,'x-field acp-multicombo x-form-item x-form-item-default x-form-type-text x-column x-field-default x-column-form-item')]//child::input[@${Action}=&quot;${value}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

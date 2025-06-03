@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Grid_Under_Fieldset_index_Val</name>
+   <tag></tag>
+   <elementGuidId>bbbe7b40-43b8-4dec-bcd9-5a9f26317117</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@aria-label,'${FieldsetName}')]//table[contains(@data-recordindex,'${ligne}')]//*[@class = 'x-grid-cell-inner ' and (text() = '${val}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

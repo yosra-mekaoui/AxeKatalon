@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_To Excel</name>
+   <tag></tag>
+   <elementGuidId>768a1082-5cd7-4252-bcea-551762c3da06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ext-gen60']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ext-gen60</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2c608786-4c6e-4972-8bf8-dc43d3cccbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a3b09e2d-d40d-4bee-a6d3-2da39fe2cf5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ext-gen60</value>
+      <webElementGuid>39147cea-4206-4bb4-8f28-d9802c742db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> x-btn-text icon-pageexcel</value>
+      <webElementGuid>165ac088-bda2-42e5-9226-e38c3adb63a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To Excel</value>
+      <webElementGuid>2963f2d7-60f6-4c9b-8c1b-7f9a73c69846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen60&quot;)</value>
+      <webElementGuid>f18f2585-da15-473f-aca9-3e0283d8413c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/V6record/Page_Axe Credit Portal/iframe_concat(Aujourd, , hui)__gridWindow_IFrame</value>
+      <webElementGuid>2f1fccf9-3d69-4d94-8f34-861f35ced922</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ext-gen60']</value>
+      <webElementGuid>e89c529c-9ebc-43b5-a164-0db108aa6a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='_excelButton_gridCreditSimulation']/tbody/tr[2]/td[2]/em/button</value>
+      <webElementGuid>c2272fb6-7ad2-45c2-938e-e092c7e5eb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Xml'])[1]/following::button[1]</value>
+      <webElementGuid>5ed19a09-91de-461a-9458-649312c5402f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Taux d', &quot;'&quot;, 'endettement (%)')])[1]/following::button[2]</value>
+      <webElementGuid>30a98c91-ac35-42fb-a0e8-76ee5b899964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Csv'])[1]/preceding::button[1]</value>
+      <webElementGuid>c88409fe-b319-42c0-956e-a9f3f6418059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commit'])[1]/preceding::button[2]</value>
+      <webElementGuid>2ad479f8-ab67-40bd-bcb8-e9351a89b339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='To Excel']/parent::*</value>
+      <webElementGuid>948a4a10-94f9-43d3-ae93-a4296e069224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/table/tbody/tr[2]/td[2]/em/button</value>
+      <webElementGuid>e3eff300-2099-4fbb-9169-f85c2eb64e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'ext-gen60' and (text() = 'To Excel' or . = 'To Excel')]</value>
+      <webElementGuid>110e30f3-e2e6-41f2-aac9-9035fd698f23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

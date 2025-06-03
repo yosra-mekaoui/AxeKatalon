@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Group-title-by-fieldset</name>
+   <tag></tag>
+   <elementGuidId>311492c1-db65-4d19-bb83-0622c475a3b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@aria-label,'${FieldsetName}')]//*[@class = 'x-grid-group-title' and (text() = '${val}' or . = '${val}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Disabled_Checkbtn_Inlinegrid</name>
+   <tag></tag>
+   <elementGuidId>fd5c229e-99c0-48a4-ab21-2c10c19dc0b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class=&quot;x-btn-icon-el x-btn-icon-el-default-small fa fa-check &quot;]//ancestor::a[@aria-disabled=&quot;true&quot;]  &#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

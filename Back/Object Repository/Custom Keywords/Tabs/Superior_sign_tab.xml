@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Superior_sign_tab</name>
+   <tag></tag>
+   <elementGuidId>ceff73bc-b5e6-4fda-bcd1-5a0f2f50d376</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='x-tab-bar edit-mode-tabpanel-new x-tab-bar-plain x-docked x-tab-bar-default x-horizontal x-tab-bar-horizontal x-tab-bar-default-horizontal x-top x-tab-bar-top x-tab-bar-default-top x-docked-top x-tab-bar-docked-top x-tab-bar-default-docked-top x-docked-noborder-right x-docked-noborder-left x-scroller x-tab-bar-scroller x-tab-bar-default-scroller']//div[@class='x-box-scroller x-box-scroller-right x-box-scroller-tab-bar x-box-scroller-tab-bar-default x-box-scroller-plain x-unselectable']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

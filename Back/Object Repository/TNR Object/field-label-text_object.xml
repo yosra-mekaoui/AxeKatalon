@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field-label-text_object</name>
+   <tag></tag>
+   <elementGuidId>61c8cf68-41c5-4b32-ba28-143f52497dda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class = 'x-form-item-label-text' and (text() = '${value}:' or text() = '${value}' or text() = '${value}*' )]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

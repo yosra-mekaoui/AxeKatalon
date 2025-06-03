@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div-trigger</name>
+   <tag></tag>
+   <elementGuidId>c4fd57e6-9778-4b7b-afaf-aa2f3f898e05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-form-item x-form-item-default x-form-type-text')] //div[contains(@class,'x-form-arrow-trigger-default') and (contains(@id,'trigger-picker'))]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

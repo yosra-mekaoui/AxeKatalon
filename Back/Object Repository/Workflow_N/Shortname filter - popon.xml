@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Shortname filter - popon</name>
+   <tag></tag>
+   <elementGuidId>735937c3-846a-47f3-b399-ca89e7686f01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Shortname']//ancestor::div[@class='x-column-header x-column-header-align-start x-box-item x-column-header-default x-unselectable x-column-header-first']//input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

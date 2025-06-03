@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bulk_Attachment_button</name>
+   <tag></tag>
+   <elementGuidId>8e68dfbb-b9b1-4881-83cf-ee9eefbc65ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@aria-disabled,'${disabled-true_or_false}')]//*[@class = 'x-btn-inner x-btn-inner-default-toolbar-small' and (text() = 'Bulk Attachment')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ActionPerformedSuccessfullyMessage</name>
+   <tag></tag>
+   <elementGuidId>3bb00366-adcd-439c-bdcc-be2725543e15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//div[contains(@class,'x-window-text') and text() = &quot;Action performed successfully!&quot; or text() = &quot;action performed successfuly&quot; or text() = &quot;Action performed successfully&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

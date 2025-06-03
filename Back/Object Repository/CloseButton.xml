@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in</name>
+   <tag></tag>
+   <elementGuidId>130403ff-7459-4fdd-82c0-c9bcdcd55509</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[text()='${TabName}']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#button-1015-btnEl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+      <webElementProperties>
+      <name>id</name>
+      <matchCondition>EQUALS</matchCondition>
+      <value>${TabName}</value>
+      <isSelected>true</isSelected>
+   </webElementProperties>
+
+</WebElementEntity>

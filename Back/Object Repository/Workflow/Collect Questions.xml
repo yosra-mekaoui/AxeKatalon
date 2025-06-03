@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Collect Questions</name>
+   <tag></tag>
+   <elementGuidId>15756ac4-503d-4c3c-844b-7de7bc30b713</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-autocontainer-innerCt' and (text() = 'Collect Questions :  Analyst recommendations: YesProvide your comment(s) if any: Analyst Comment(s): 3 Auto Test - These are the Analyst commentsGive the reason(s) of rejection: ' or . = 'Collect Questions :  Analyst recommendations: YesProvide your comment(s) if any: Analyst Comment(s): 3 Auto Test - These are the Analyst commentsGive the reason(s) of rejection: ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite><testCase><name>Gui/Epic grid 4/TC-63658-GUI Create Editable Inline grid on Edit screen</name><isRun>true</isRun><numberOfRerun>1</numberOfRerun></testCase><testCase><name>Gui/Epic grid 4/TC-63667-GUI Create Editable by cell grid on Edit screen</name><isRun>true</isRun><numberOfRerun>1</numberOfRerun></testCase><testCase><name>Gui/Epic grid 4/TC-63680-GUI Create Editable onPopon grid on Edit screen</name><isRun>true</isRun><numberOfRerun>1</numberOfRerun></testCase></testsuite>

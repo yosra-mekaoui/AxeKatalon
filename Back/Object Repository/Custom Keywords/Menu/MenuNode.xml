@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuNode</name>
+   <tag></tag>
+   <elementGuidId>a25bf0c0-40dc-4bbe-bef2-8321b4c02b36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//table[@id='${ParentID}']/following::table//span[contains(@class,'x-tree-node-text') and text() = '${NodeText}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+{
+	"Name": "Chrome",
+	"projectDir": "C:/Users/houss/PycharmProjects/project",
+	"host": {
+		"hostName": "Houssem.Berrabeh - HOUSSEM_BERREBAH.axefinance.com",
+		"os": "Windows 11 64bit",
+		"hostPort": 61991,
+		"hostAddress": "192.168.0.252"
+	},
+	"execution": {
+		"general": {
+			"autoApplyNeighborXpaths": false,
+			"ignorePageLoadTimeoutException": false,
+			"timeCapsuleEnabled": false,
+			"executionProfile": "Demo",
+			"excludeKeywords": [
+				"verifyElementPresent",
+				"verifyElementNotPresent"
+			],
+			"xpathsPriority": [
+				{
+					"left": "xpath:attributes",
+					"right": true
+				},
+				{
+					"left": "xpath:idRelative",
+					"right": true
+				},
+				{
+					"left": "dom:name",
+					"right": true
+				},
+				{
+					"left": "xpath:link",
+					"right": true
+				},
+				{
+					"left": "xpath:neighbor",
+					"right": true
+				},
+				{
+					"left": "xpath:href",
+					"right": true
+				},
+				{
+					"left": "xpath:img",
+					"right": true
+				},
+				{
+					"left": "xpath:position",
+					"right": true
+				},
+				{
+					"left": "xpath:customAttributes",
+					"right": true
+				}
+			],
+			"timeout": 30,
+			"actionDelay": 0,
+			"methodsPriorityOrder": [
+				{
+					"left": "XPATH",
+					"right": true
+				},
+				{
+					"left": "BASIC",
+					"right": true
+				},
+				{
+					"left": "CSS",
+					"right": true
+				},
+				{
+					"left": "IMAGE",
+					"right": true
+				}
+			],
+			"proxy": "{\"proxyOption\":\"NO_PROXY\",\"proxyServerType\":\"HTTP\",\"username\":\"\",\"password\":\"\",\"proxyServerAddress\":\"\",\"proxyServerPort\":0,\"exceptionList\":\"\",\"applyToDesiredCapabilities\":true}",
+			"defaultFailureHandling": "STOP_ON_FAILURE",
+			"terminateDriverAfterTestCase": false,
+			"defaultPageLoadTimeout": 30,
+			"report": {
+				"videoRecorderOption": {
+					"enable": false,
+					"useBrowserRecorder": false,
+					"videoFormat": "AVI",
+					"videoQuality": "LOW",
+					"recordAllTestCases": true,
+					"allowedRecordIfFailed": true,
+					"allowedRecordIfPassed": false
+				},
+				"screenCaptureOption": false,
+				"reportFolder": "C:\\Users\\houss\\Desktop\\acpAuto\\Reports\\20240729_150634\\AutoFramework\\Access right\\Smoke Access right\\20240729_150634"
+			},
+			"enablePageLoadTimeout": false,
+			"terminateDriverAfterTestSuite": true,
+			"useActionDelayInSecond": "SECONDS",
+			"testDataInfo": {},
+			"selfHealingEnabled": true
+		},
+		"drivers": {
+			"system": {
+				"WebUI": {
+					"chromeDriverPath": "C:\\Users\\houss\\PycharmProjects\\project\\settings\\chromedriver-win32\\chromedriver.exe",
+					"browserType": "CHROME_DRIVER"
+				}
+			},
+			"preferences": {
+				"WebUI": {
+					"args": [
+						"--safebrowsing-disable-download-protection",
+						"--disable-web-security",
+						"--allow-running-insecure-content",
+						"unsafely-treat-insecure-origin-as-secure=http://192.168.13.129:700,http://192.168.13.129:13021,http://192.168.13.129:600,http://192.168.13.29:2000,http://192.168.0.195:201,http://192.168.13.129:602,http://localhost:90"
+					],
+					"prefs": {
+						"download.default_directory": "C:\\reports",
+						"safebrowsing.enabled": true,
+						"acceptInsecureCerts": true
+					}
+				}
+			}
+		},
+		"globalSmartWaitEnabled": true,
+		"logTestSteps": true
+	},
+	"id": "Test Suites/AutoFramework/Access right/Smoke Access right",
+	"name": "Smoke Access right",
+	"description": "",
+	"source": "C:\\Users\\houss\\Desktop\\acpAuto\\Test Suites\\AutoFramework\\Access right\\Smoke Access right.ts",
+	"sessionServer.host": "127.0.0.1",
+	"sessionServer.port": 62332,
+	"isDebugLaunchMode": false,
+	"logbackConfigFileLocation": "C:\\Users\\houss\\Desktop\\KatalonRT8.6.9\\configuration\\resources\\logback\\logback-console.xml",
+	"katalon.versionNumber": "8.6.9",
+	"katalon.buildNumber": "208",
+	"runningMode": "CONSOLE",
+	"pluginTestListeners": [
+		"KatalonReportListener"
+	],
+	"allowUsingSelfHealing": true,
+	"allowUsingTimeCapsule": true,
+	"allowCustomizeRequestTimeout": true,
+	"allowCustomizeRequestResponseSizeLimit": true,
+	"maxFailedTests": -1,
+	"testops": {}
+}

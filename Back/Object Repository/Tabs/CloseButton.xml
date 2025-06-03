@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Close TAb Test Object</description>
+   <name>Close Button</name>
+   <elementGuidId></elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>.//a[contains(@class,"x-tab")]//span[text() = '${TabName}']/ancestor::a//span[contains(@class,"x-tab-close-btn")]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <webElementProperties>
+      <name>id</name>
+      <matchCondition>EQUALS</matchCondition>
+      <value>${TabName}</value>
+      <isSelected>true</isSelected>
+   </webElementProperties>
+</WebElementEntity>

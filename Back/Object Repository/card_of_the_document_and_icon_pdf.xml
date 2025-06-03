@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>card_of_the_document_and_icon_pdf</name>
+   <tag></tag>
+   <elementGuidId>654f4c95-f508-4509-876b-2dd4202cea22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[text()='TNR.pdf']//ancestor::div[@class=&quot;x-panel-bodyWrap&quot;]//child::i[contains(@class,&quot;icon icon-file&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

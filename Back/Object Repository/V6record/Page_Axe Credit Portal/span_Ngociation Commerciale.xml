@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ngociation Commerciale</name>
+   <tag></tag>
+   <elementGuidId>4575b328-a569-40e4-9320-8d5e54c56df7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ext-gen34']/em/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1b64291-eb4e-472d-ac0c-d253d7eefef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-tab-strip-text </value>
+      <webElementGuid>87f223a0-32f1-4dc8-be51-47343f6c62ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Négociation Commerciale</value>
+      <webElementGuid>f0b9e032-f65a-460c-8a18-a6794c365543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-gen34&quot;)/em[@class=&quot;x-tab-left&quot;]/span[@class=&quot;x-tab-strip-inner&quot;]/span[@class=&quot;x-tab-strip-text&quot;]</value>
+      <webElementGuid>cf7e8857-ff67-45d4-9d76-2dc66b44db81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/V6record/Page_Axe Credit Portal/iframe_FAM_PPO 030148028_1306631332_IFrame</value>
+      <webElementGuid>7f3b4d95-e3ec-4873-a62c-c656afb25007</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ext-gen34']/em/span/span</value>
+      <webElementGuid>47b2f574-e0f3-4c6b-bf09-710fe354ea3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Co-emprunteur'])[1]/following::span[2]</value>
+      <webElementGuid>6d1677dc-cbe1-450d-8f28-1f57d3a42611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Données Principales'])[1]/following::span[4]</value>
+      <webElementGuid>3ceaa31c-9695-4467-87eb-a231964940f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Tableau d', &quot;'&quot;, 'Amortissement')])[1]/preceding::span[1]</value>
+      <webElementGuid>a1c0f7f7-7738-4886-bee5-55c1ac5b7010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grille de score'])[1]/preceding::span[3]</value>
+      <webElementGuid>9a298e6f-c484-4755-b2d8-3ec6fc41cc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Négociation Commerciale']/parent::*</value>
+      <webElementGuid>c8bf6dd0-c7be-4a95-beb2-f27d08512a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a[2]/em/span/span</value>
+      <webElementGuid>f1b6fb96-9f93-4eb6-81fa-960ec6b4dd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Négociation Commerciale' or . = 'Négociation Commerciale')]</value>
+      <webElementGuid>55ea5194-4bb0-49d7-abab-31f3575196d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

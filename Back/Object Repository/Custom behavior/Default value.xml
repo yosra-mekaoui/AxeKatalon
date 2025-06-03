@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Default value</name>
+   <tag></tag>
+   <elementGuidId>35958434-0811-4417-94a5-a0242b4f964c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'x-form-item-label-text') and (text() = 'Default value:' or text() = 'Default value')]/ancestor::div[contains(@class,'x-field axe-basic-field ')]//child::input[@class='x-form-field x-form-text x-form-text-default   ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

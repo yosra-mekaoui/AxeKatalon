@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite><testCase><name>Wave1 (Auto Env)/Smoke/Module Attachement/TC-38197-Attachment_every_search_window</name><isRun>true</isRun><numberOfRerun>3</numberOfRerun></testCase><testCase><name>Wave1 (Auto Env)/Sanity/Collection/Collection_SME Client 11654</name><isRun>true</isRun><numberOfRerun>3</numberOfRerun></testCase></testsuite>

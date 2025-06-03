@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldset_Disbursement SummaryRequired fieldInput error. Required field</name>
+   <tag></tag>
+   <elementGuidId>b554e108-058a-4173-ac67-88344029b347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-fieldset fieldset x-fieldset-with-legend x-fieldset-default' and (text() = 'Disbursement Summary*:' or . = 'Disbursement Summary*:')]//textarea[contains(@class,'')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

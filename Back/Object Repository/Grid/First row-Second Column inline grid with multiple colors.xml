@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>First row-Second Column inline grid with multiple colors</name>
+   <tag></tag>
+   <elementGuidId>994ece6e-cedc-4e66-8333-45d3fa700b1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@id,&quot;editableinline&quot;)]//div[@class=&quot;x-panel-body x-grid-with-col-lines x-grid-with-row-lines x-grid-body x-panel-body-default x-panel-body-default x-docked-noborder-right x-docked-noborder-left&quot;]//*[text()='test city'])</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PG Save Btn</name>
+   <tag></tag>
+   <elementGuidId>a56fc74f-dfc4-44e7-855e-4665674fa589</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-toolbar x-docked x-toolbar-default')]//span[contains(@class,'x-btn-inner-default-toolbar-small') and (text() = 'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

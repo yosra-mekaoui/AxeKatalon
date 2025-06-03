@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>arrow</name>
+   <tag></tag>
+   <elementGuidId>6c3db5bc-3d68-4c46-bdbd-705bab4e805e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(@class,'x-tree-node-text ') and text() = '${Condition}']/ancestor::div[contains(@class,'x-grid-cell-inner x-grid-cell-inner-treecolumn')]//child::div[@class=' x-tree-elbow-img x-tree-elbow-plus x-tree-expander']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

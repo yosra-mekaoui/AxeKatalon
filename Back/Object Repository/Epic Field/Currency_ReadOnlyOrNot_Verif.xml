@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Currency_ReadOnlyOrNot_Verif</name>
+   <tag></tag>
+   <elementGuidId>e655c80a-48aa-4861-a39f-1dfcad7bb827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='EUR' and @aria-readonly='${trueOrfalse}']/ancestor::div[@class='x-container x-form-fieldcontainer axe-basic-field x-form-item x-form-item-default x-column x-container-default x-column-form-item']//span[text()='${NameoftheField}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

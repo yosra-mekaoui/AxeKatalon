@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WebElementEntity>
+   <description />
+   <name>MenuButton</name>
+   <tag />
+   <elementGuidId>292ed271-82c9-4422-9982-d9fe81628b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'menuBtn']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'menuBtn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menuBtn</value>
+      <webElementGuid>7eb8ad76-ef2a-45f5-b693-91ab13dfc483</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

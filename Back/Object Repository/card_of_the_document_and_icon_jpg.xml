@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>card_of_the_document_and_icon_jpg</name>
+   <tag></tag>
+   <elementGuidId>c8154120-2296-48fc-869c-c3b5729604c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[text()='images.jpg']//ancestor::div[@class=&quot;x-panel-bodyWrap&quot;]//child::i[@class=&quot;icon icon-jpeg jpegDocAttachment&quot;])[1]
+
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

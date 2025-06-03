@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FilterTaskWF</name>
+   <tag></tag>
+   <elementGuidId>0a4e0bb5-f3eb-4f7e-928a-fbc893717b72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='${ColumnName} ' or text()='${ColumnName}']//ancestor::div[contains(@class,'x-column-header')]//input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bulk-button-enabled_or_disabled</name>
+   <tag></tag>
+   <elementGuidId>4d4ba5bf-4862-4e2a-844d-05a6d309905b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@aria-disabled,'${disabled-true_or_false}')]//*[@class = 'x-btn-inner x-btn-inner-default-toolbar-small' and (text() = 'Bulk attachment')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

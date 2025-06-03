@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deleteButtonFirstGridRow</name>
+   <tag></tag>
+   <elementGuidId>a560dbce-abbf-4ea2-b12b-52306286cf35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@class='x-grid-item x-grid-item-selected' and @data-recordindex='0']//div[@class='x-action-col-icon x-action-col-0  x-fa fa-trash-o']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

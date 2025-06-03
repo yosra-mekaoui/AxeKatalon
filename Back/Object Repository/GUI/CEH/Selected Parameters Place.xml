@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Selected Parameters Place</name>
+   <tag></tag>
+   <elementGuidId>989271a8-0102-45a3-8a87-a7390fb18869</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@ng-show=&quot;!selectedCEHItem.item.IsXRuleCEH || selectedCEHItem.item.IsWsCEH&quot;]//ul</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

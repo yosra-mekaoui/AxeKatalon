@@ -1,0 +1,26 @@
+<GlobalVariables>
+    <GlobalVariableEntity>
+        <name>baseUrl</name>
+        <initValue>"https://github.com"</initValue>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <name>timeout</name>
+        <initValue>30</initValue>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <name>version</name>
+        <initValue>'V9'</initValue>
+    </GlobalVariableEntity>
+     <GlobalVariableEntity>
+        <name>URL</name>
+        <initValue>'http://192.168.13.129:700/'</initValue>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <name>Username</name>
+        <initValue>'Administrator'</initValue>
+    </GlobalVariableEntity>
+     <GlobalVariableEntity>
+        <name>Password</name>
+        <initValue>'QADOMAIN2021**'</initValue>
+    </GlobalVariableEntity>
+</GlobalVariables>

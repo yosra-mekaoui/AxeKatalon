@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_New Promotion Is Available For The Product Personal Loan With The Following Terms And Conditions Interest Rate 2.00 Base Rate EURIBOR Until 01012021</name>
+   <tag></tag>
+   <elementGuidId>02fe6a74-731f-4d30-ae85-d2830498a24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(text() = 'Collateral  Ref. N°109 : Insurance Expiry Date 30/09/2018')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

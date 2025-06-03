@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Analyst recommendations</name>
+   <tag></tag>
+   <elementGuidId>4808d765-28e4-4b5d-809f-56b6c6b1fb18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class = 'x-field axe-basic-field axe-basic-required-field x-form-item x-form-item-default x-form-type-text x-column x-field-default x-column-form-item' and (text() = 'Analyst recommendations*:' or . = 'Analyst recommendations*:')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

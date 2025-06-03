@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StartWF</name>
+   <tag></tag>
+   <elementGuidId>df05e85a-1cdd-498f-ba60-3f51cc93b98b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='${variable}']//ancestor::tr[@class=&quot;  x-grid-row&quot;]//child::div[@class='x-action-col-icon x-action-col-0  x-fa fa-arrow-right']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

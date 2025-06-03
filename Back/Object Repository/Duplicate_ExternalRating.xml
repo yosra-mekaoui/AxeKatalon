@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Duplicate_ExternalRating</name>
+   <tag></tag>
+   <elementGuidId>818930aa-eb05-4b49-9885-29c3b50a6568</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class=&quot;x-grid-cell-inner &quot; and text()=&quot;800&quot;]//following::div[@class=&quot;x-action-col-icon x-action-col-0  x-fa fa-files-o&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

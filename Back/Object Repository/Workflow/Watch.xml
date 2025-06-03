@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>//span[text()='Text_box:' or text()='Text_box']//ancestor::div[contains(@class,'x-container x-form-field')]//child::a[contains(@class,'x-btn btn_history ')]</description>
+   <name>Watch</name>
+   <tag></tag>
+   <elementGuidId>1bd7bbc6-2670-49b3-abbe-e79230b81f28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='${FiledName}:' or text()='${FiledName}']//ancestor::div[contains(@class,'x-container x-form-field')]//child::a[contains(@class,'x-btn btn_history ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

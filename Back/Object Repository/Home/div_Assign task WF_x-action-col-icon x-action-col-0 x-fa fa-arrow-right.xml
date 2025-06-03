@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assign task WF_x-action-col-icon x-action-col-0 x-fa fa-arrow-right</name>
+   <tag></tag>
+   <elementGuidId>63a3898f-c367-471b-9fad-703f42901853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[contains(@data-recordindex,'0')]//div[contains(@class,'x-action-col-icon x-action-col-0  x-fa fa-arrow-right')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CustomBHComboVarValueCondition</name>
+   <tag></tag>
+   <elementGuidId>7582620a-cb68-4954-992b-da37495b038c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Combo Value']//ancestor::div[@class=&quot;x-fieldset-body x-fieldset-body-default &quot;]//input[@name=&quot;customBehaviorComboVarValueCondition&quot;]  </value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

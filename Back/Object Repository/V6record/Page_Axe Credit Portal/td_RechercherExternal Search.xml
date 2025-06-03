@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_RechercherExternal Search</name>
+   <tag></tag>
+   <elementGuidId>473b78aa-b07a-4cea-83b2-88f3ad704758</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ext-comp-1006']/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.x-toolbar-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0991c859-4f9a-4db3-812c-f34f125c7b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-toolbar-left</value>
+      <webElementGuid>29d2bf04-346b-48e2-aaf6-4cd0e13dbb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>3164b686-a9f0-4ede-a47d-32ecb02c6c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Rechercher      External Search   </value>
+      <webElementGuid>8e6d9e6e-95ae-4811-a2fa-85896fa37c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-comp-1006&quot;)/table[@class=&quot;x-toolbar-ct&quot;]/tbody[1]/tr[1]/td[@class=&quot;x-toolbar-left&quot;]</value>
+      <webElementGuid>1c24d383-f476-4d7d-a144-68978c740fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/V6record/Page_Axe Credit Portal/iframe_Vue portefeuille_1349397385_IFrame</value>
+      <webElementGuid>b25dabb2-fe40-435d-85c7-bb794de019d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ext-comp-1006']/table/tbody/tr/td</value>
+      <webElementGuid>6f024ece-670f-4855-a174-cb2a076bf1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White Liste'])[1]/following::td[1]</value>
+      <webElementGuid>88a52d39-6184-41b3-ace9-59f6d7f8c798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compte Client'])[1]/following::td[1]</value>
+      <webElementGuid>386ad1f4-a072-416b-a33f-bd9133cba14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>68cbaef2-f505-4125-98ce-d604feb9f6ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '   Rechercher      External Search   ' or . = '   Rechercher      External Search   ')]</value>
+      <webElementGuid>46c4a495-592d-4978-b263-0f6ce81e252e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

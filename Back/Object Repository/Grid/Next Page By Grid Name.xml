@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Next Page By Grid Name</name>
+   <tag></tag>
+   <elementGuidId>82e7ffb0-3f35-4059-8326-68032bd30d22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@id,&quot;editableinline&quot;)]//a[@class=&quot;x-btn x-unselectable x-box-item x-toolbar-item x-btn-default-toolbar-small&quot; and @aria-disabled=&quot;false&quot; and @data-qtip=&quot;Next Page&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

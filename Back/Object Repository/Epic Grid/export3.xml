@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>export3</name>
+   <tag></tag>
+   <elementGuidId>44336f27-0012-4f2c-a6e1-633388d520ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[normalize-space(text()) and normalize-space(.)='Group By_Informative']//ancestor::fieldset//child::span[contains(@class,'x-btn-split')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

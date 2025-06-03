@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_External Rating</name>
+   <tag></tag>
+   <elementGuidId>f35b88f3-a1a5-4be7-92d9-5214698c04f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-component x-fieldset-header-text x-fieldset-header-text-collapsible x-component-default' and (text() = 'External Rating' or . = 'External Rating')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

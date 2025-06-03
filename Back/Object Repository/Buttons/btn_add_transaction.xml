@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_add_transaction</name>
+   <tag></tag>
+   <elementGuidId>ef07f590-4aa2-4718-9e55-f08703e4c09c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='x-btn-button x-btn-button-default-toolbar-large x-btn-text x-btn-icon x-btn-icon-left x-btn-button-center ']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

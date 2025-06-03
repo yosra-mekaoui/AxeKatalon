@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_QADomain_x-action-col-icon x-action-col-0 x-fa fa-user assign-touser-arrow</name>
+   <tag></tag>
+   <elementGuidId>e1a6990f-446d-4f2f-a918-ff36997103af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-grid-cell-inner ' and (text() = 'QADomain\administrator' or . = 'QADomain\administrator')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

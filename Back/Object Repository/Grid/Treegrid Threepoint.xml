@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Treegrid Threepoint</name>
+   <tag></tag>
+   <elementGuidId>b1b5713c-f4b0-4e97-9909-71afd4ff4808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@data-recordindex=&quot;${index1}&quot;]//tr[@aria-level=&quot;3&quot;]//a[contains(@id,'splitbutton')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

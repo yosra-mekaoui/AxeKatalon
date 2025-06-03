@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Info_Nexus</name>
+   <tag></tag>
+   <elementGuidId>e3a2ebac-a6cc-4c3f-ae60-3d87c4a62c45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='${value}']//ancestor::tr[contains(@class,&quot;x-grid-row&quot;)]//div[contains(@class,'info')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

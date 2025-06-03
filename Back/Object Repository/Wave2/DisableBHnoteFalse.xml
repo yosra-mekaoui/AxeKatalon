@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DisableBHnoteFalse</name>
+   <tag></tag>
+   <elementGuidId>10509318-91bd-4e90-9b68-41e022ded3ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()= 'Note 2:' or text()= 'Note 2']//ancestor::div[contains(@class,'basic-field')]//textarea[@aria-readonly=&quot;false&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

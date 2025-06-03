@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LIST</name>
+   <tag></tag>
+   <elementGuidId>3cd23907-2636-4c3b-a0ca-e2e9b68c3d70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[contains(@class,'x-grid-cell x-grid-td x-grid-cell-treecolumn')]//span[contains(@class,'x-tree-node-text ') and (text() = 'CA.166406'or . = 'CA.166406')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

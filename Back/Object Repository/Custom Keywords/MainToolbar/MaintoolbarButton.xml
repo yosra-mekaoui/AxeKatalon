@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WebElementEntity>
+   <description />
+   <name>MaintoolbarButton</name>
+   <tag />
+   <elementGuidId>6dc7ec01-e81f-4d96-88ad-cc04eb155c21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'main-toolbar-actions-btnEl']</value>
+      </entry>
+   <entry><key>XPATH</key><value>//*[@id = 'main-toolbar-actions-btnEl']</value></entry></selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main-toolbar-actions-btnEl</value>
+   </webElementProperties>
+</WebElementEntity>

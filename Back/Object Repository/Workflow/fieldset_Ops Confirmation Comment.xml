@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldset_Ops Confirmation Comment</name>
+   <tag></tag>
+   <elementGuidId>875455e0-cebc-4251-98fd-c7b9583bed3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'x-fieldset fieldset x-fieldset-with-legend x-fieldset-default' and (text() = 'Ops Confirmation Comment:' or . = 'Ops Confirmation Comment:')]//textarea[contains(@class,'')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Add New Button Test Object</description>
+   <name>Add New Button</name>
+   <elementGuidId>12345-6789</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.fa-plus.add-related-txt.add-related-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[text()='${DocumentName}']//ancestor::div[@class='${ClassName}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <webElementProperties>
+      <name>id</name>
+      <matchCondition>EQUALS</matchCondition>
+      <value>${DocumentName}</value>
+      <isSelected>true</isSelected>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WebElementEntity>
+   <description />
+   <name>div_Cell value has been edited_x-tree-elbow_86051c</name>
+   <tag />
+   <elementGuidId>c9ea55d4-31ca-4149-8dcc-bda8658548d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class = ' x-tree-elbow-img x-tree-elbow-plus x-tree-expander']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = ' x-tree-elbow-img x-tree-elbow-plus x-tree-expander']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> x-tree-elbow-img x-tree-elbow-plus x-tree-expander</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id("treeview-1835-record-5404")/tbody[1]/tr[@class="x-grid-row"]/td[@class="x-grid-cell x-grid-td x-grid-cell-treecolumn-1836 group-contact x-grid-cell-treecolumn x-grid-cell-first x-grid-cell-last x-unselectable x-tree-expander-over x-grid-item-focused"]/div[@class="x-grid-cell-inner x-grid-cell-inner-treecolumn"]/div[@class="x-tree-elbow-img x-tree-elbow-plus x-tree-expander"]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='treeview-1835-record-5404']/tbody/tr/td/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/table/tbody/tr/td/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

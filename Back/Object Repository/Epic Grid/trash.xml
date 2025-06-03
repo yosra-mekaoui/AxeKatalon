@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>trash</name>
+   <tag></tag>
+   <elementGuidId>492effad-d239-4f95-a051-a8f93fb1ad3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[contains(@aria-label,'${fieldsetName}')]//table[contains(@data-recordindex,'${ligne}')]//*[@role = 'button' and contains(@class ,'x-fa fa-trash')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

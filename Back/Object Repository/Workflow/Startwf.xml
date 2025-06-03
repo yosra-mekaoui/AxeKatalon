@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Startwf</name>
+   <tag></tag>
+   <elementGuidId>d360a03a-a1d7-48d9-a3af-e735ad2a9d4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text() = '${WFName}']/ancestor::tr[contains(@class,'  x-grid-row')]//child::td[contains(@data-columnid,'actioncolumn')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

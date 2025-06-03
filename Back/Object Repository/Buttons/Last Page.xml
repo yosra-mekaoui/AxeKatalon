@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Last Page</name>
+   <tag></tag>
+   <elementGuidId>499dc647-c61c-4bec-8cde-a1e5059053a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'x-panel-body x-panel-body-default x-column-layout-ct x-panel-body-default x-scroller x-docked-noborder-right x-docked-noborder-bottom x-docked-noborder-left')]//span[contains(@class,'x-btn-icon-el x-btn-icon-el-default-toolbar-small x-tbar-page-last ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

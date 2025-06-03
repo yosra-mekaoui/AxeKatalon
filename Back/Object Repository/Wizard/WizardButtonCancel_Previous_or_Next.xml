@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WizardButtonCancel_Previous_or_Next</name>
+   <tag></tag>
+   <elementGuidId>a39c4c75-31e3-4ceb-b38c-d6de6f7b9174</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@role = 'button' and @class = 'x-btn axe-btn axe-btn-green-hover x-unselectable x-box-item x-toolbar-item x-btn-default-toolbar-small']//span[text() = '${Value}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

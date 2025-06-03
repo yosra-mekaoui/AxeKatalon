@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CloseButton</name>
+   <tag></tag>
+   <elementGuidId>287f7b29-3871-4dc8-abbd-73e22030b9b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>.//a[contains(@class,&quot;x-tab&quot;)]//span[text() = '${TabName}']/ancestor::a//span[contains(@class,&quot;x-tab-close-btn&quot;)]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Error_Popon_text</name>
+   <tag></tag>
+   <elementGuidId>df3e4c92-adc3-4b30-9d81-8765ff69ad22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='x-tip-body x-tip-body-default x-closable x-tip-body-closable x-tip-body-default-closable x-tip-body-default x-tip-body-default-closable']//*[text()='${text1}' and '${text2}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

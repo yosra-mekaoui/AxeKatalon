@@ -1,0 +1,12 @@
+<testsuite>
+    <testCase>
+        <name>TC_006</name>
+        <isRun>true</isRun>
+        <numberOfRerun>0</numberOfRerun>
+    </testCase>
+    <testCase>
+        <name>TC_003</name>
+        <isRun>true</isRun>
+        <numberOfRerun>0</numberOfRerun>
+    </testCase>
+</testsuite>

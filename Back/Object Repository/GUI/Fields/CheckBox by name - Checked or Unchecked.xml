@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CheckBox by name - Checked or Unchecked</name>
+   <tag></tag>
+   <elementGuidId>75a1eb54-19b6-4f9a-b51a-dfb27ca51ec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-checkbox[@aria-label='${name}']//div[@class=&quot;md-container&quot;]/ancestor::md-checkbox[@aria-checked='${action}']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
